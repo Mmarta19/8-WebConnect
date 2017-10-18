@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebConnect</string>
+    <string name="go">Go</string>
+    <string name="type_a_url">Type a URL</string>
+</resources>
