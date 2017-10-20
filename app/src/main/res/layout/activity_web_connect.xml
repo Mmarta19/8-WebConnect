@@ -46,6 +46,6 @@
         android:layout_toLeftOf="@+id/btn_go"
         android:layout_toStartOf="@+id/btn_go"
         android:hint="@string/type_a_url"
-        android:onClick="connect" />
+        />
 
 </RelativeLayout>
