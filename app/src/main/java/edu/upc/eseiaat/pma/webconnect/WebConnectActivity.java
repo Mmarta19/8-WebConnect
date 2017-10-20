@@ -34,7 +34,7 @@ public class WebConnectActivity extends AppCompatActivity {
         content.setText(cont);*/
 
         //executem la bifurcació i es fa la tasca asíncrona
-
+        content.setText("");
         new WebFetcherTask().execute(surl);  // nova tasca
     }
 
